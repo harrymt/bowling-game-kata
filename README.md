@@ -16,6 +16,7 @@ $ cd bowling-game-kata
 $ yarn test # or `npm run test`
 ```
 
+![Begin the Kata](example.png)
 
 ### Example finished Kata
 
