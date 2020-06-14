@@ -7,7 +7,7 @@
   "author": "Harry Mumford-Turner <harrymt@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest index.test.ts --watchAll"
+    "test": "jest index.test.ts"
   },
   "dependencies": {
     "typescript": "^3.9.5"

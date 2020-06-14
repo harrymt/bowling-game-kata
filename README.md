@@ -18,6 +18,12 @@ $ yarn test # or `npm run test`
 
 ![Begin the Kata](example.png)
 
+1. Game
+2. All ones
+3. One Spare
+4. One Strike
+5. The perfect game
+
 ### Example finished Kata
 
 ```bash
