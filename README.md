@@ -8,7 +8,7 @@ Kata for Uncle Bobs [bowling game](http://butunclebob.com/ArticleS.UncleBob.TheB
 ```bash
 $ git clone https://github.com/harrymt/bowling-game-kata.git
 $ cd bowling-game-kata
-$ git checkout start-n
+$ git checkout -b start-n
 ```
 
 ### Tests
