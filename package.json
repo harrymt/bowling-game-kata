@@ -1,0 +1,20 @@
+{
+  "name": "bowling-game-kata",
+  "version": "1.0.0",
+  "description": "Kata for Uncle Bobs bowling game",
+  "main": "index.ts",
+  "repository": "https://github.com/harrymt/bowling-game-kata.git",
+  "author": "Harry Mumford-Turner <harrymt@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest index.test.ts"
+  },
+  "dependencies": {
+    "typescript": "^3.9.5"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.0",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.1.0"
+  }
+}
